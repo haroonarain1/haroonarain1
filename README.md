@@ -8,10 +8,10 @@ I'm a second-year student at UIC. I have gained strong foundations in:
 -C++ game development
 
 ## Skills
-Languages: C++, Python, Java, C, JavaScript, SQL, HTML/CSS
-Frameworks & Libraries: Flask, React, SQLAlchemy
-Tools: Git, GitHub, Visual Studio Code, npm
-Concepts: Data Structures, Algorithms, Object-Oriented Programming, RESTful APIs
+-Languages: C++, Python, Java, C, JavaScript, SQL, HTML/CSS
+-Frameworks & Libraries: Flask, React, SQLAlchemy
+-Tools: Git, GitHub, Visual Studio Code, npm
+-Concepts: Data Structures, Algorithms, Object-Oriented Programming, RESTful APIs
 
 ## Goals
 -Land internships in Software Engineering, Machine Learning, and Data Engineering
