@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there
+I'm Haroon, and I am a Computer Science Undergraduate at the University of Illinois Chicago
 
-<!--
-**haroonarain1/haroonarain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a second-year student at UIC. I have gained strong foundations in: 
+-Data Structures and Algorithms
+-Web Development
+-C++ game development
 
-Here are some ideas to get you started:
+## Skills
+Languages: C++, Python, Java, C, JavaScript, SQL, HTML/CSS
+Frameworks & Libraries: Flask, React, SQLAlchemy
+Tools: Git, GitHub, Visual Studio Code, npm
+Concepts: Data Structures, Algorithms, Object-Oriented Programming, RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+-Land internships in Software Engineering, Machine Learning, and Data Engineering
+-Transition into full-time engineering roles
+-Eventually pursue a Masters degree in Electrical/Computer Engineering and contribute to careers in hardware design and engineering
