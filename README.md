@@ -2,7 +2,7 @@
 I'm Haroon, and I am a Computer Science student at the University of Illinois Chicago
 
 ## 🚀 About Me
-I'm in my second-year student at UIC. Through my coursework and side projects, I have gained strong foundations in: 
+I'm in my third-year at UIC. Through my coursework and side projects, I have gained strong foundations in: 
 
 -Data Structures and Algorithms
 
