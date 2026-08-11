@@ -13,13 +13,13 @@ I'm in my third-year at UIC. Through my coursework and side projects, I have gai
 -Game Development
 
 ## 🛠️ Skills
--Languages: C++, Python, Java, C, JavaScript, SQL, HTML/CSS
+-Languages: C++, Python, Java, C, TypeScript, JavaScript, SQL, HTML/CSS
 
--Frameworks & Libraries: Flask, React, SQLAlchemy
+-Frameworks & Libraries: FastAPI, Flask, React, SQLAlchemy, SpringBoot, Tailwind CSS
 
--Tools: Git, GitHub, Visual Studio Code, npm
+-Tools & Platforms: Git, Docker, Railway, Vercel, PostgreSQL, Visual Studio Code, Maven, Linux/Unix
 
--Concepts: Data Structures, Algorithms, Object-Oriented Programming, RESTful APIs
+-Concepts: Data Structures, Algorithms, Object-Oriented Programming, RESTful APIs, JWT Authentication, Database Design
 
 ## 📈 Goals
 
